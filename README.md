@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khushbu
 - 👀 I’m interested in ...Machine Learning
-- 💞️ I’m looking to collaborate on ...Python Projects
+- 💞️ I’m looking to collaborate on ... Data Science Projects
 
 <!---
    🌱 I’m currently learning , - 📫 How to reach me ...
